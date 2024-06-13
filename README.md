@@ -1,5 +1,3 @@
-# THIS REPO HAS BEEN MIGRATED TO GHE AND IT IS VIRTUALLY LOCKED. PLEASE, USE https://github.azc.ext.hp.com/workflow-solutions/handlebars-kit
-
 # Handlebars Kit
 
 This is a fork of the [handlebars-helpers](https://github.com/helpers/handlebars-helpers) created by [Jon Schlinkert](https://github.com/jonschlinkert).
